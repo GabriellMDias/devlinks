@@ -12,3 +12,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Git e Github
 - Figma
+
+## ⭐ Link de Acesso
+https://gabriellmdias.github.io/devlinks/
